@@ -84,7 +84,7 @@
 
 - **Currently Learning**:
 
-    ![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=for-the-badge) ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Microservices](https://img.shields.io/badge/Microservices-FF6F00.svg?style=for-the-badge)
 
 <br>
 
