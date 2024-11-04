@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning `.NetCore 7` and `flutter`.
 - 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.css`, `.ts`, `C#`.
+- ⚙️ I use daily: `.js`, `.css`, `.ts`, `C#`, `java`.
 - 💬 Ping me about **vue**, **fullstack**, **development**, **design**, **.NetCore**, **flutter**.
 - 📚 Also familiar with `Jetpack Compose`.
 - 🛠️ Applying **Domain-Driven Design (DDD)** principles.
