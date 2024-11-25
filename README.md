@@ -108,9 +108,13 @@
 </table>
 
 <div align=center>
+  
+  ![snake gif](https://github.com/CodAress/CodAress/blob/output/github-snake-dark.svg)
+</div>
+
+<div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/CodAress/count.svg" />  
@@ -121,20 +125,21 @@
 
 
 <p align="center">
+  <!--
   <a href="https://CodAress.github.io/blogs/" target="_blank">
     <img align="center" alt="CodAress | blogs" width="24px" src="https://raw.githubusercontent.com/CodAress/CodAress/master/assets/vitepress.svg" />
   </a> &nbsp;&nbsp;
-
+  -->
   <a href="https://profile-summary-for-github.herokuapp.com/user/CodAress" target="_blank">
     <img align="center" alt="CodAress | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="CodAress | juejin" width="24px" src="https://raw.githubusercontent.com/CodAress/CodAress/master/assets/juejin.svg" />
+  <a href="https://www.linkedin.com/in/aldo-alberto-baldeon-fabian/" target="_blank">
+    <img align="center" alt="CodAress | juejin" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:tu_correo@gmail.com" >
-    <img align="center" alt="CodAress | Gmail" width="26px" src="https://raw.githubusercontent.com/CodAress/CodAress/master/assets/gmail.svg" />
+  <a href="mailto:aldobaldeon20@gmail.com" >
+    <img align="center" alt="CodAress | Gmail" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg" />
   </a> &nbsp;&nbsp;
 <p>
 
@@ -149,4 +154,4 @@
 
 Credit: [aldo-Baldeon](https://github.com/CodAress)
 
-Last Edited on 04/11/2024
+Last Edited on 25/11/2024
